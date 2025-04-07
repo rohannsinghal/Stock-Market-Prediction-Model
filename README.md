@@ -54,25 +54,25 @@ pip install -r requirements.txt
 ```
 ---
 
-##💡 Usage
+## 💡 Usage
 
 1. To explore data & train models:
 Go to notebooks/ → Run .ipynb files
 
-2.To check results:
+2. To check results:
 Go to results/ → Visuals & Graphs
 
-3.To see final predictions:
+3. To see final predictions:
 Check submission/ folder
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-##📞 Contact Me
+## 📞 Contact Me
 GitHub: rohannsinghal
 
 LinkedIn: https://www.linkedin.com/in/rohan-singhal-6776271bb/
