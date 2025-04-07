@@ -1,7 +1,9 @@
 # Stock-Market-Prediction-Model
 
 ## 📈 Project Overview
-This project focuses on predicting the *Close* price of multiple stocks for the years 2023-2024 using historical stock market data from 2018-2022. The dataset provided included the following parameters for each stock:
+This project was developed as part of the *IIT Kanpur Hackathon - Tech Kriti 2025*.  
+The aim was to predict the future closing prices of stocks using deep learning techniques, specifically LSTM models, based on historical stock market data.
+The dataset provided included the following parameters for each stock:
 - Open
 - High
 - Low
@@ -15,7 +17,7 @@ The objective was to build an LSTM-based time series prediction model that forec
 ## 🔥 Key Features
 - Data Preprocessing:
   - Excel to CSV conversion
-  - Feature engineering (SMA, EMA, Rolling Mean, Lag Features)
+  - Feature engineering (SMA, EMA, Rolling Mean, Lag Features,Bollinger Bound)
   
 - LSTM Model:
   - Trained separate models for each stock
