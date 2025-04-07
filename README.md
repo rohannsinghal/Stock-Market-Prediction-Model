@@ -31,13 +31,50 @@ The objective was to build an LSTM-based time series prediction model that forec
 ## 🛠️ Tech Stack
 - Python  
 - Pandas & NumPy (Data Handling)  
-- TensorFlow / Keras (Model Building)  
-- Matplotlib / Seaborn (Visualization)  
-- Jupyter Notebook / Colab  
+- TensorFlow (Model Building)  
+- Matplotlib (Visualization)  
+- Jupyter Notebook 
 
 ---
-## 🚀 Installation Guide
+## 🔧 Installation Steps
 
-### 1. Clone the Repository
+1. Clone the repository:
 ```bash
 git clone https://github.com/rohannsinghal/Stock-Market-Prediction-Model.git
+cd Stock-Market-Prediction-Model
+```
+2. Create Virtual Environment:
+```bash
+conda create -n stock-pred python=3.9
+conda activate stock-pred
+```
+3. Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+---
+
+##💡 Usage
+
+1. To explore data & train models:
+Go to notebooks/ → Run .ipynb files
+
+2.To check results:
+Go to results/ → Visuals & Graphs
+
+3.To see final predictions:
+Check submission/ folder
+
+---
+
+##🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+##📞 Contact Me
+GitHub: rohannsinghal
+
+LinkedIn: https://www.linkedin.com/in/rohan-singhal-6776271bb/
+
+Email: singhalrohan04@gmail.com
