@@ -1,0 +1,2 @@
+sequence_length,prediction_days,feature_columns,target_column,model_path,scaler_path,training_size,validation_size,testing_size
+30,5,"['High', 'Low', 'Open', 'Volume', 'SMA_10', 'EMA_10', 'RSI_14', 'Rolling_Mean_20', 'Rolling_Std_20', 'Bollinger_Upper', 'Bollinger_Lower', 'EMA_12', 'EMA_26', 'MACD', 'Signal_Line', 'OBV', 'Close_Lag_1', 'Close_Lag_3', 'Close_Lag_7', 'Close_Rolling_5', 'Close_Rolling_10', 'Close_Rolling_20']",Close,/Users/admin/Downloads/lstm_stock_model_20250327_133439.h5,/Users/admin/Downloads/scalers_20250327_133439.pkl,16325,3494,3515
